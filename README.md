@@ -62,7 +62,7 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 This project is open-source and available under the **MIT License**.
 
 ## Author
-[PRAMOD REDDY V] - [GitHub Profile](https://github.com/V-PRAMOD-REDDY)
+PRAMOD REDDY V - [GitHub Profile](https://github.com/V-PRAMOD-REDDY)
 
 Happy Coding! 😊
 
